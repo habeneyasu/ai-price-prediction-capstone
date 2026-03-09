@@ -14,12 +14,13 @@ A comprehensive three-part capstone project for predicting product prices and id
 
 [→ Part A Documentation](./part-a-frontier/README.md)
 
-### Part B: Fine-tuned Models (Week 7) 🚧
+### Part B: Fine-tuned Models (Week 7) ✅
 **Fine-tuned open-source model to compete with Frontier in price prediction**
 
-- Fine-tuning pipeline for open-source models
+- QLoRA fine-tuning pipeline for open-source models
+- Parameter-efficient fine-tuning with PEFT
 - Model comparison and benchmarking
-- Performance optimization
+- HuggingFace Hub integration
 
 [→ Part B Documentation](./part-b-finetune/README.md)
 
