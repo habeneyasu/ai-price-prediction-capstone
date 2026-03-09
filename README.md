@@ -24,12 +24,13 @@ A comprehensive three-part capstone project for predicting product prices and id
 
 [→ Part B Documentation](./part-b-finetune/README.md)
 
-### Part C: Autonomous Agent System (Week 8) 🚧
+### Part C: Autonomous Agent System (Week 8) ✅
 **Autonomous agent system collaborating with models to spot deals and notify you of special bargains**
 
-- Autonomous price monitoring
-- Deal detection algorithms
-- Multi-model collaboration
+- Autonomous RSS feed monitoring
+- Intelligent deal filtering with LLM
+- Ensemble price prediction
+- Deal opportunity detection
 - Notification system
 
 [→ Part C Documentation](./part-c-agent/README.md)
